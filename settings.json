@@ -6,8 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "solocloud.host",
-    "port": 25565,
+    "ip": "dhanush5599.aternos.me
+",
+    "port": 53210,
     "version": "1.20.1",
     "try-creative": false
   },
@@ -27,7 +28,7 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
+      "enabled": false,
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
